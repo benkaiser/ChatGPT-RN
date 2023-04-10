@@ -34,6 +34,11 @@
     "web": {
       "favicon": "./assets/favicon.png"
     },
+    "androidStatusBar": {
+      "backgroundColor": "#343541",
+      "translucent": false,
+      "barStyle": "light-content"
+    },
     "extra": {
       "eas": {
         "projectId": "130864df-21cb-47ec-8951-bd548f219cb3"
